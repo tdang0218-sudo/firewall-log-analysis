@@ -19,6 +19,20 @@ This is a SOC oriented project that simulates attacker activity against a target
 ## Tools and commands used
 | Tool | Purpose |
 |------|---------|
-| Nmap |
+| Nmap | Port scanning, OS detection, TCP scans |
+| Nikto | Web server vulnerability scanning |
+| Hydra | Brute force attack through SSH and RDP |
+| pfSense | Firewall used to create rules, logging, and traffic analysis |
 
+**Sanitized command examples:**
+# Nmap commands
+nmap -sS <Target IP>
+nmap -O
+
+# Nikto command
+nikto -h <Target IP>
+
+# Brute Force commands
+hydra -V -l <Target-hostname> -P /home/<Target-hostname>/Documents/passlist.txt **rdp**://<Target IP>
+hydra -V -l <Target-hostname> -P /home/<Target-hostname>/Documents/passlist.txt **ssh**://<Target IP>
 
