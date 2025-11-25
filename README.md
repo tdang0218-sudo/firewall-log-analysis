@@ -26,13 +26,13 @@ This is a SOC oriented project that simulates attacker activity against a target
 
 **Sanitized command examples:**
 # Nmap commands
-nmap -sS <Target IP>
-nmap -O
+- nmap -sS <Target IP>
+- nmap -O
 
 # Nikto command
 nikto -h <Target IP>
 
 # Brute Force commands
-hydra -V -l <Target-hostname> -P /home/<Target-hostname>/Documents/passlist.txt **rdp**://<Target IP>
-hydra -V -l <Target-hostname> -P /home/<Target-hostname>/Documents/passlist.txt **ssh**://<Target IP>
+- hydra -V -l <Target-hostname> -P /home/<Target-hostname>/Documents/passlist.txt **rdp**://<Target IP>
+- hydra -V -l <Target-hostname> -P /home/<Target-hostname>/Documents/passlist.txt **ssh**://<Target IP>
 
