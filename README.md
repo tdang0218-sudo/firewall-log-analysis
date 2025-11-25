@@ -12,7 +12,13 @@ This is a SOC oriented project that simulates attacker activity against a target
 - **Firewall:** pfSense (monitors and blocks traffic, log events)
 - **Network topology:** Kali VM > pfSense > Windows VM
 
+---
 **All IPs in this project are masked for privacy.**
+---
 
+## Tools and commands used
+| Tool | Purpose |
+|------|---------|
+| Nmap |
 
 
