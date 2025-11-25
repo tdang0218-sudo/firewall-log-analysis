@@ -11,3 +11,6 @@ This is a SOC oriented project that simulates attacker activity against a target
 - **Target**: Windows VM (acts as the target device, used to bring up pfsense web interface GUI)
 - **Firewall:** pfSense (monitors and blocks traffic, log events)
 - **Network topology:** Kali VM > pfSense > Windows VM
+
+## All IPs are masked for privacy.
+
