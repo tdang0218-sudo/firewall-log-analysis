@@ -7,7 +7,7 @@ This is a SOC oriented project that simulates attacker activity against a target
 
 ## Lab Environment
 
-- **Attacker**: Kali VM 
-- **Target**: Windows VM
-- **Firewall:** pfSense
+- **Attacker**: Kali VM (used to perform various scans, reconnaissance, and brute-force simulation)
+- **Target**: Windows VM (acts as the target device, used to bring up pfsense web interface GUI)
+- **Firewall:** pfSense (monitors and blocks traffic, log events)
 - **Network topology:** Kali VM > pfSense > Windows VM
