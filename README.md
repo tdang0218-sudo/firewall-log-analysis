@@ -26,7 +26,7 @@ This is a SOC oriented project that simulates attacker activity against a target
 
 **Sanitized command examples:**
 # Nmap commands
-- nmap -sS '<Target IP>'
+- nmap -sS \<Target IP\>
 - nmap -O '<Target IP>"
 
 # Nikto command
