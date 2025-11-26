@@ -18,7 +18,7 @@ sends multiple packets so that it could indentify the OS the target machine is r
 **Impact Assessment**
 ---
 - **Severity: Medium**
-- 
+- Scans and detects which OS the target machine is on. This is dangerous because now hackers can use 
 
 
 
