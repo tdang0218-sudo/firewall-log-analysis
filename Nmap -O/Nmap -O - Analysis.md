@@ -25,7 +25,6 @@ sends multiple packets so that it could indentify the OS the target machine is r
 ---
 - Enable IDS/IPS rules to detect OS fingerprinting
 - Block unnecessary ICMP traffic
-- 
 
 
 
