@@ -18,7 +18,7 @@ the TCP handshake, but pfSense was able to block and log an attack.
 ---
 - **Severity: Low**
 - Although an attempt of reconnaissance was performed, pfSense only logged one attempt, meaning high volume scans
-  were not performed. As we can from the "nmap -sS kali command" picture, it was still able to identify some open ports
+  were not performed. As we can see from the "nmap -sS kali command" picture, it was still able to identify some open ports
   so we should still be cautious and continue to monitor.
 
 **Recommendations**
