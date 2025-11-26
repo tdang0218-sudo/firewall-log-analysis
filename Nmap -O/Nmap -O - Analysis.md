@@ -5,4 +5,4 @@ sends multiple packets so that it could indentify the OS the target machine is r
 
 **Indicators in pfSense**
 ---
-**TCP:A** - 
+**TCP:A** - pfSense was able to identify a 
