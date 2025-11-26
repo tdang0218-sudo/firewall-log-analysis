@@ -9,6 +9,11 @@ the TCP handshake, but pfSense was able to block and log an attack.
 - **TCP:A** - Incoming SYN packet interpreted as ACK.
 - All traffic blocked by firewall rules
 
+**MITRE ATT&CK**
+---
+- Tactic: Reconnaissance
+- Technique: Network Service Scanning
+
 **Impact Assessment**
 ---
 - **Severity: Low**
