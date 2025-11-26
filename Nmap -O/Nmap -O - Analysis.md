@@ -5,4 +5,5 @@ sends multiple packets so that it could indentify the OS the target machine is r
 
 **Indicators in pfSense**
 ---
-**TCP:A** - pfSense was able to identify a 
+**TCP:A** - pfSense was able to identify an incoming SYN packet interpreted as ACK
+
