@@ -17,6 +17,8 @@ sends multiple packets so that it could indentify the OS the target machine is r
 
 **Impact Assessment**
 ---
+**Severity: Medium**
+
 
 
     
