@@ -16,6 +16,8 @@ sends multiple packets so that it could indentify the OS the target machine is r
 - Technique: Network Service Scanning and Vulnerability Scanning
 
 **Impact Assessment**
+---
+
 
     
 
