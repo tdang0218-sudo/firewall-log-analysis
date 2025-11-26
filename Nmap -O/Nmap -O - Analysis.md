@@ -10,5 +10,11 @@ sends multiple packets so that it could indentify the OS the target machine is r
 - Nmap -O is noisy because it sends multiple probes/packets to the target machine, which will usually result in multiple
   logs. As we can see in "nmap -O raw logs" and "nmap -O dynamic logs", there are multiple logs in pfSense system logs.
 
+  **MITRE ATT&CK**
+  ---
+  - Tactic: reconnaissance
+  - Technique: Network Service Scanning and Vulnerability Scanning
+    
+
   
 
