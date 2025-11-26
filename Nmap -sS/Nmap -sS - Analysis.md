@@ -16,7 +16,7 @@ the TCP handshake, but pfSense was able to block and log an attack.
   were not performed. As we can from the "nmap -sS kali command" picture, it was still able to identify some open ports
   so we should still be cautious and continue to monitor.
 
-  **Recommendations**
-  ---
-  - Monitor for repeated reconnaissance attempts
-  - Enable IDS/IPS rules to detect SYN scan patterns
+**Recommendations**
+---
+- Monitor for repeated reconnaissance attempts
+- Enable IDS/IPS rules to detect SYN scan patterns
