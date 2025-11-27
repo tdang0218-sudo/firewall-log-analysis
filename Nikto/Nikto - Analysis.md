@@ -15,3 +15,6 @@ the nikto scan.*
 - Tactic: Reconnaissance
 - Technique: Vulnerability Scanning
 
+**Impact Assessment**
+- **Severity: Medium**
+- 
