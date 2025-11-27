@@ -13,5 +13,5 @@ the nikto scan.*
 **MITRE ATT&CK**
 ---
 - Tactic: Reconnaissance
-- 
+- Technique: Vulnerability Scanning
 
