@@ -12,4 +12,6 @@ attacker wants full GUI desktop access.
 - Multiple logs generated in quick succession
 
 **MITRE ATT&CK**
-- 
+---
+- Tactic: 
+- Technique:
