@@ -17,7 +17,7 @@ to the terminal once they have compromised the target machine.
 
 **Impact Assessment**
 ---
-- **Severity**: High
+- **Severity: High**
 - A successful compromise could be very damaging. Attacker could install malware, modify system files, perform lateral
   movement in the network, and many more.
 
