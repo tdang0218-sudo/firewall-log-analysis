@@ -13,5 +13,7 @@ attacker wants full GUI desktop access.
 
 **MITRE ATT&CK**
 ---
-- Tactic: 
-- Technique:
+- Tactic: Credential Access
+- Technique: Brute Force
+
+
