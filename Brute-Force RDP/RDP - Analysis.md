@@ -23,5 +23,5 @@ attacker wants full GUI desktop access.
   successful, the attacker has full access to the GUI desktop, making it much more easy for low level hackers and overall giving
   more options to attacks.
 
-  **Recommendations**
-  - 
+**Recommendations**
+- 
