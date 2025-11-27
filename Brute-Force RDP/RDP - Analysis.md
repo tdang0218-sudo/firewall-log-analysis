@@ -24,4 +24,8 @@ attacker wants full GUI desktop access.
   more options to attacks.
 
 **Recommendations**
-- 
+---
+- Enforce strong passwords
+- Enforce account lockout
+- Block RDP from outside network
+- **IF DEVICE IS COMPROMISED**: reset password, enable MFA, kick out of all sessions, disable account
