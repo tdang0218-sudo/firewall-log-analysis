@@ -6,7 +6,9 @@ the nikto scan.*
 
 **Indicators in pfSense**
 ---
-- Multiple logs were produced in pfSense because port 80 was blocked (no web server)
+- Multiple logs to port 80 (no web server)
 - Burst of TCP:RA protocols
-- 
+- Quick successions of logs in pfSense
+
+**
 
