@@ -24,4 +24,8 @@ to the terminal once they have compromised the target machine.
 
 **Recommendations**
 ---
+- Enable account lockout policy
+- Monitor for repeated authentication failures
+- Disable SSH access if possible
+- **If account is compromised**: Reset password, enable MFA, kick out of all sessions, disable account
 
