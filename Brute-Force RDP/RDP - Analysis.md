@@ -28,4 +28,4 @@ attacker wants full GUI desktop access.
 - Enforce strong passwords
 - Enforce account lockout
 - Block RDP from outside network
-- **IF DEVICE IS COMPROMISED**: reset password, enable MFA, kick out of all sessions, disable account
+- **IF ACCOUNT IS COMPROMISED**: reset password, enable MFA, kick out of all sessions, disable account
