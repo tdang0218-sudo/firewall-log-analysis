@@ -8,4 +8,5 @@ to the terminal once they have compromised the target machine.
 ---
 - Multiple logs blocked from port 22 as seen in the dynamic and raw logs
 - Multiple logs appeared back to back indicating multiple failed attempts
-- 
+- Same source IP
+- Protocol TCP:S
