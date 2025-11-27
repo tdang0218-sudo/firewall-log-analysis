@@ -4,4 +4,5 @@ The Kali machine used Hydra to performed a brute force attack using SSH. The att
 from a notepad and attempts to log-in in quick succession. SSH is usually used when attackers want quick access 
 to the terminal once they have compromised the target machine. 
 
-
+**Indicators in pfSense**
+---
