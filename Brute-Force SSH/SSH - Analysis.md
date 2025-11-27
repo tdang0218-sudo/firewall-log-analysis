@@ -15,4 +15,10 @@ to the terminal once they have compromised the target machine.
 - Tactic: Credential Access
 - Technique: Brute Force
 
-**
+**Impact Assessment**
+---
+
+
+**Recommendations**
+---
+
