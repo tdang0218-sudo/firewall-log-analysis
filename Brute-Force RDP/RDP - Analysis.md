@@ -16,4 +16,6 @@ attacker wants full GUI desktop access.
 - Tactic: Credential Access
 - Technique: Brute Force
 
+**Impact Assessment**
+---
 
