@@ -25,5 +25,5 @@ the nikto scan.*
 ---
 - Keep all web servers patched
 - Apply rate limit to HTTP(S)
-- Disable or restrict access to common web service ports (80, 443, 8080, 8000, 8888) if they are not required.
+- Disable or restrict access to common web service ports (80, 443, 8080, 8000, 8888) if they are not required
   
