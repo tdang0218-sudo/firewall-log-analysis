@@ -7,7 +7,7 @@ the nikto scan.*
 **Indicators in pfSense**
 ---
 - Multiple logs to port 80 (no web server)
-- Burst of TCP:RA protocols
+- Burst of **TCP:RA** protocols
 - Quick successions of logs in pfSense
 
 **MITRE ATT&CK**
