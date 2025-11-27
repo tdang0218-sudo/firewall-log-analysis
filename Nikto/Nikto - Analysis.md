@@ -20,3 +20,10 @@ the nikto scan.*
 - **Severity: Medium**
 - Although vulnerability scanning does not guarantee a compromise, it still increases the chance of one happening, due to
   hackers now being able to come up with an exploit path based on the vulnerabilities found.
+
+**Recommendations**
+---
+- Keep all web servers patched
+- Apply rate limit to HTTP(S)
+- Disable or restrict access to common web service ports (80, 443, 8080, 8000, 8888) if they are not required.
+  
