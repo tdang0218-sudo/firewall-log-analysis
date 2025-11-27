@@ -18,7 +18,7 @@ attacker wants full GUI desktop access.
 
 **Impact Assessment**
 ---
-**Severity: High**
+- **Severity: High**
 - Just like SSH, RDP can be dangerous if a log-in attempt is successful. The difference with RDP though is when a brute force attack is
   successful, the attacker has full access to the GUI desktop, making it much more easy for low level hackers and overall giving
   more options to attacks.
