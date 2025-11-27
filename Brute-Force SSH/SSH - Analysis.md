@@ -12,5 +12,7 @@ to the terminal once they have compromised the target machine.
 - **TCP:S** - repeated SSH connection 
 
 **MITRE ATT&CK**
-Tactic: Credential Access
-Technique: Brute Force
+- Tactic: Credential Access
+- Technique: Brute Force
+
+**
