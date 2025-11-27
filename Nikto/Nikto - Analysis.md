@@ -16,5 +16,7 @@ the nikto scan.*
 - Technique: Vulnerability Scanning
 
 **Impact Assessment**
+---
 - **Severity: Medium**
-- 
+- Although vulnerability scanning does not guarantee a compromise, it still increases the chance of one happening, due to
+- hackers now being able to come up with an exploit path based on the vulnerabilities found.
