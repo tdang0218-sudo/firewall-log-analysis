@@ -5,4 +5,7 @@
 The pfSense dashboard shows a pie chart of the block rate logged. As we can see from the image above, pfSense has a 100% block
 rate against incoming traffic, meaning that the firewall rules are successfully blocking the attacks.
 
+**Observed Behavior**
+---
+
 
