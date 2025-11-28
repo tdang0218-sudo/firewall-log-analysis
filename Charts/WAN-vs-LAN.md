@@ -24,7 +24,10 @@ originating from outside the network and is attacking an asset on the internal L
 
 **Conclusion**
 ---
-Heavy
+Heavy WAN traffic compared to LAN indicates that external network attacks might be occuring.
+Possible reconnaissance, brute force, or probing might be occuring, so it's best to review firewall
+logs, enable IDS/IPS for WAN to LAN activities, and apply rate limiting to protect assets within the 
+network. 
 
 
 
