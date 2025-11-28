@@ -27,3 +27,7 @@ towards the network.
 
 **Conclusion**
 ---
+One IP in particular is generating an unusual amount of traffic. The high amount of traffic is concerning since it can
+implicate malicious activities such as brute force attempts and various attacks such as probing and vulnerability scanning. 
+To keep assets within internal network safe, the IP source should be investigated and if need be, appropriate actions should
+take place such as, blocking the IP, disabling unnecessary services on WAN, and limiting the number of connections for that IP.
