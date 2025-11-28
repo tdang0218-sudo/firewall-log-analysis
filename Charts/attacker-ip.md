@@ -17,3 +17,6 @@ towards the network.
 - Repeated connection attempts via brute force
 - Vulnerability scanning
 
+**Recommendations**
+---
+
