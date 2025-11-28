@@ -24,3 +24,6 @@ towards the network.
 **3.** Configure IDS/IPS to automatically block malicious behavior from IP  
 **4.** Disable unnecessary services on WAN  
 **5.** Limit number of connections for that particular IP
+
+**Conclusion**
+---
