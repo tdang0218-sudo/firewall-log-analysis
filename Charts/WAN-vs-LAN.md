@@ -7,8 +7,8 @@ originating from outside the network and is attacking an asset on the internal L
 
 **Observed Behavior**
 ---
-- WAN traffic unusually high compared to LAN traffic.
-- LAN traffic mostly low, this most likely suggests that the LAN host was responding to attack pings.
+- WAN traffic unusually high compared to LAN traffic
+- LAN traffic mostly low, this most likely suggests that the LAN host was responding to attack pings
 
 **Potential Security Implications**
 ---
