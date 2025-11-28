@@ -18,7 +18,8 @@ originating from outside the network and is attacking an asset on the internal L
 
 **Recommendations**
 ---
-1. 
+1. Review firewall logs for source IP, destination ports, and connection attempts
+2. 
 
 
 
@@ -26,12 +27,7 @@ originating from outside the network and is attacking an asset on the internal L
 
 
 
-This is a chart shown in pfSense. We can see here that there is much more WAN traffic than LAN. In the 
-lab set up, Kali was placed on the WAN interface (em0) and Windows on LAN (em1), sitting between them 
-was pfSense. If we were to look at this from a SOC analyst perspective, we can conclude that this chart 
-indicates that an attack is happening outside of the network. This lines up with the type of scans we did
-against the Windows machine, such as Nmap scans, Nikto scans, and Hydra brute force attempts. By knowing 
-that there is heavy traffic coming from outside the network, SOC analysts can recommends certain type of 
+
 
 
 
