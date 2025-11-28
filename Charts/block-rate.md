@@ -7,5 +7,8 @@ rate against incoming traffic, meaning that the firewall rules are successfully 
 
 **Observed Behavior**
 ---
+- 92 instances of traffic were initiated and pfSense were able to block all 92.
 
+**Analysis**
+---
 
