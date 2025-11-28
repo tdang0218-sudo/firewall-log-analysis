@@ -19,4 +19,8 @@ towards the network.
 
 **Recommendations**
 ---
-
+**1.** Investigate the IP source with the highest traffic volume  
+**2.** Block or restrict the IP  
+**3.** Configure IDS/IPS to automatically block malicious behavior from IP  
+**4.** Disable unnecessary services on WAN  
+**5.** Limit number of connections for that particular IP
