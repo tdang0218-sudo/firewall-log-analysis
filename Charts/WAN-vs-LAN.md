@@ -18,8 +18,8 @@ originating from outside the network and is attacking an asset on the internal L
 
 **Recommendations**
 ---
-**1.** Review firewall logs for source IP, destination ports, and connection attempts
-**2.** Enable IDS/IPS for WAN to LAN activities
+**1.** Review firewall logs for source IP, destination ports, and connection attempts  
+**2.** Enable IDS/IPS for WAN to LAN activities  
 **3.** Apply rate limiting on WAN services to prevent rapid connection attempts
 
 **Conclusion**
