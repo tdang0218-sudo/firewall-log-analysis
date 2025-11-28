@@ -3,7 +3,7 @@
 **Analysis**
 ---
 This is a chart shown in pfSense. We can see here that there is much more WAN traffic than LAN. In the 
-lab set up Kali was placed on the WAN interface (em0) and Windows was on LAN (em1), sitting between them 
+lab set up, Kali was placed on the WAN interface (em0) and Windows was on LAN (em1), sitting between them 
 was pfSense. If we were to look at this from a SOC analyst perspective, we can conclue that this chart 
 indicates that an attack is happening outside of the network. 
 
