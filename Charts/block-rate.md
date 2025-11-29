@@ -7,7 +7,7 @@ rate against incoming traffic, meaning that the firewall rules are successfully 
 
 **Observed Behavior**
 ---
-- 92 instances of traffic were initiated and pfSense were able to block all 92.
+- Ninety two instances of traffic were initiated and pfSense was able to block all ninety two.
 
 **Security Implications**
 ---
@@ -16,4 +16,7 @@ rate against incoming traffic, meaning that the firewall rules are successfully 
 
 **Recommendations**
 ---
-
+- Maintian current firewall rules and maybe add new ones since we know an attempt of an attack is happening
+- Enable IDS/IPS to detect patterns in blocked traffic, which may indicate targeted attacks
+- Confirm with internal hosts inside the network to see if they are attempting outbound connections which may be causing the
+  blocked traffic
