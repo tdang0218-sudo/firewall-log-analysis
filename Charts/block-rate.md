@@ -11,4 +11,9 @@ rate against incoming traffic, meaning that the firewall rules are successfully 
 
 **Security Implications**
 ---
-- The firewall rules in place are successfully blocking traffic from ou
+- The firewall rules in place are successfully blocking traffic, keeping the network safe
+- There are default deny rules in place, which means some sort of attack is coming from outside the network
+
+**Recommendations**
+---
+
