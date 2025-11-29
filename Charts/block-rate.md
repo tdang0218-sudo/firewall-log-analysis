@@ -20,3 +20,9 @@ rate against incoming traffic, meaning that the firewall rules are successfully 
 - Enable IDS/IPS to detect patterns in blocked traffic, which may indicate targeted attacks
 - Confirm with internal hosts inside the network to see if they are attempting outbound connections which may be causing the
   blocked traffic
+
+**Conclusion**
+---
+The 100% block rate shows us that pfSense default deny rule is working and it is protecting attacks from outside the network.
+In order to further keep a 100% block rate in the future, it would be beneficial to add new default deny rules to cover bases for
+new attacks. Continued monitoring of the block rate chart is also recommended.
