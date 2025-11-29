@@ -11,7 +11,7 @@ towards the network.
 - A particular IP source (Kali) is accounted for most of the traffic volume
 - The other IP sources are barely contributing to traffic volume
 
-**Security Implications**
+**Potential Security Implications**
 ---
 - Scanning or probing activity
 - Repeated connection attempts via brute force
