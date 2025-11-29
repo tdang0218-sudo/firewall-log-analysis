@@ -9,6 +9,6 @@ rate against incoming traffic, meaning that the firewall rules are successfully 
 ---
 - 92 instances of traffic were initiated and pfSense were able to block all 92.
 
-**Analysis**
+**Security Implications**
 ---
-
+- The firewall rules in place are successfully blocking traffic from ou
