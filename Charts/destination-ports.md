@@ -15,4 +15,10 @@ associated with remote access, appears on the list suggesting some sort of remot
 
 **Potential Security Implications**
 ---
+- Brute Force attempts using SSH and RDP services
+- Reconnaissance scanning suggested by port 1 and 53294
+- Vulnerability scanning
+
+**Recommendations**
+---
 
