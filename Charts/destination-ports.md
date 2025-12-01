@@ -7,3 +7,12 @@ associated with remote access, appears on the list suggesting some sort of remot
 1 and 53294 also makes an appearance on the chart, indicating some type of scanning of the internal network.
 
 **Observed Behavior**
+---
+- Port 3389 and 22 has notable high traffic, brute force attempts most likely occured
+- Port 135 was targeted (WAN > LAN) which probably means a vulnerability scan attack attempt
+- Port 1 indicates scanning
+- Port 53294 most likely indicates scanning
+
+**Potential Security Implications**
+---
+
