@@ -27,3 +27,6 @@ associated with remote access, appears on the list suggesting some sort of remot
 
 **Conclusion**
 ---
+Many different ports that are usually targeted for malicious behavior were present on the destination pie chart. This highly suggests
+that there is an attack coming from outside the network. To reduce exposure and protect internal systems, setting up IDS/IPS rules, applying 
+rate limiting on remote access ports, restricting unnecessary services, and continued/strengthened monitoring should be applied. 
