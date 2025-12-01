@@ -21,4 +21,9 @@ associated with remote access, appears on the list suggesting some sort of remot
 
 **Recommendations**
 ---
+- Enable IDS/IPS rules to detect scanning and brute force behavior
+- Apply rate limiting for repeated attempts on remote access ports
+- Strengthen internal hosts by disabling unused services and ensuring up-to-date patches
 
+**Conclusion**
+---
