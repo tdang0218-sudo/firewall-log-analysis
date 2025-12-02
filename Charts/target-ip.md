@@ -30,5 +30,6 @@ in particular that seems to be dominating. This suggets that this specific IP is
 
 **Conclusion**
 ---
-
-
+The high volume of data points for a single IP suggests that the IP is being targeted, and attacks such as brute force, reconnaissance,
+and web vulnerability scanning was most likely attempted on the host. In order to keep the host and internal network safe, it is highly 
+suggested that the host be isolated from the network, harden security through MFA, review system logs, and monitor for any suspicious changes.
