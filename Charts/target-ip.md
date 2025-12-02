@@ -12,4 +12,6 @@ in particular that seems to be dominating. This suggets that this specific IP is
 **Observed Behavior**
 ---
 - One destination IP is receiving way more data points compared to others
-- M
+- One other IP was recorded but it's not generating as much data points
+
+**Security 
