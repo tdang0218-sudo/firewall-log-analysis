@@ -4,4 +4,4 @@
 
 **Analysis**
 ---
-The pfSense destination chart shows the internal IP that was pinged during the external attack. 
+The pfSense destination chart shows the internal IP that was pinged during the external attack. There is one IP that 
