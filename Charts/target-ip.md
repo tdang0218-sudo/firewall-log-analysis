@@ -14,4 +14,6 @@ in particular that seems to be dominating. This suggets that this specific IP is
 - One destination IP is receiving way more data points compared to others
 - One other IP was recorded but it's not generating as much data points
 
-**Security 
+**Potential Security Implications**
+---
+- 
