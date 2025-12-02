@@ -16,4 +16,19 @@ in particular that seems to be dominating. This suggets that this specific IP is
 
 **Potential Security Implications**
 ---
-- 
+- Large data points for the same IP suggests a brute force attack may be happening
+- Reconnaissance may also be happening
+- Possibility of web vulnerability probing happening since it generates a lot of traffic
+- Lateral movement may be a possibility if target IP was compromised
+
+**Recommendations**
+---
+- Isolate and harden targeted host in case it might've been compromised
+- Implement MFA (multi-factor authentication) to keep host more secured
+- Review system logs on targeted host to see if any lateral movement or privilege escalation occured
+- Monitor host very closely to see if any suspicious activities occurs
+
+**Conclusion**
+---
+
+
