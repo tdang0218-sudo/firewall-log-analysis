@@ -7,4 +7,9 @@ entries represent the same Windows machine moving forward.
 **Analysis**
 ---
 The pfSense destination chart shows the internal IP that was pinged during the external attack. According to the graph, there is one IP
-in particular that seems to be dominating. 
+in particular that seems to be dominating. This suggets that this specific IP is being targeted by an attacker outside the network.
+
+**Observed Behavior**
+---
+- One destination IP is receiving way more data points compared to others
+- M
