@@ -3,5 +3,9 @@
 **Analysis**
 ---
 The graph above shows the type of protocols pfSense has blocked. Most of the recorded attacks were TCP, which lines up with the
-destination ports seen in earlier pictures. Some attacks that pfSense recorded included RDP and SSH brute force attacks, scanning of
-the network, and reconnaissance which are all attacks that usually uses TCP.
+destination ports seen in earlier pictures. Some ports that were recorded included 22, 3389, 1, and 135 which indicates brute force
+attempts, scanning, and reconnaissance which are all attacks that uses TCP.
+
+**Observed Behavior**
+---
+
